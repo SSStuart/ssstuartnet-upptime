@@ -4,25 +4,27 @@
     "url": "https://ssstuart.net",
     "icon": "https://icons.duckduckgo.com/ip3/ssstuart.net.ico",
     "slug": "ssstuart-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1792,
     "timeDay": 771,
     "timeWeek": 1792,
     "timeMonth": 1792,
     "timeYear": 1792,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-26": 1
+    }
   },
   {
     "name": "CQLJ",
     "url": "https://ssstuart.net/CQLJ",
     "icon": "https://ssstuart.net/CQLJ/favicon.ico",
     "slug": "cqlj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 388,
     "timeMonth": 388,
     "timeYear": 388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-26": 0
+    }
   }
 ]

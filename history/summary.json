@@ -4,19 +4,19 @@
     "url": "https://ssstuart.net",
     "icon": "https://icons.duckduckgo.com/ip3/ssstuart.net.ico",
     "slug": "ssstuart-net",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1526,
-    "timeDay": 1320,
-    "timeWeek": 1526,
-    "timeMonth": 1526,
-    "timeYear": 1526,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1614,
+    "timeDay": 1702,
+    "timeWeek": 1614,
+    "timeMonth": 1614,
+    "timeYear": 1614,
     "dailyMinutesDown": {
-      "2024-10-30": 1
+      "2024-10-30": 13
     }
   },
   {

@@ -4,19 +4,19 @@
     "url": "https://ssstuart.net",
     "icon": "https://icons.duckduckgo.com/ip3/ssstuart.net.ico",
     "slug": "ssstuart-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1250,
-    "timeDay": 768,
-    "timeWeek": 873,
-    "timeMonth": 1045,
-    "timeYear": 1250,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 1241,
+    "timeDay": 744,
+    "timeWeek": 854,
+    "timeMonth": 1034,
+    "timeYear": 1241,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 25
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://ssstuart.net/CQLJ",
     "icon": "https://ssstuart.net/CQLJ/favicon.ico",
     "slug": "cqlj",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 378,
-    "timeWeek": 423,
-    "timeMonth": 439,
-    "timeYear": 429,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 441,
+    "timeDay": 750,
+    "timeWeek": 510,
+    "timeMonth": 461,
+    "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 25
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://gta5billboards.ssstuart.net/",
     "icon": "https://gta5billboards.ssstuart.net/favicon.ico",
     "slug": "gta-5-bb",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 817,
-    "timeWeek": 924,
-    "timeMonth": 933,
-    "timeYear": 945,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 954,
+    "timeDay": 1083,
+    "timeWeek": 977,
+    "timeMonth": 947,
+    "timeYear": 954,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 25
     }
   }
 ]

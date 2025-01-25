@@ -6,9 +6,9 @@
     "slug": "ssstuart-net",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1239,
     "timeDay": 770,
@@ -16,7 +16,6 @@
     "timeMonth": 1225,
     "timeYear": 1239,
     "dailyMinutesDown": {
-      "2025-01-24": 10,
       "2024-12-12": 40,
       "2024-12-11": 35
     }
@@ -27,18 +26,17 @@
     "icon": "https://ssstuart.net/CQLJ/favicon.ico",
     "slug": "cqlj",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 465,
     "timeDay": 485,
     "timeWeek": 417,
     "timeMonth": 536,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-01-24": 10,
       "2024-12-16": 20,
       "2024-12-11": 25
     }
@@ -49,18 +47,17 @@
     "icon": "https://gta5billboards.ssstuart.net/favicon.ico",
     "slug": "gta-5-bb",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 957,
     "timeDay": 832,
     "timeWeek": 861,
     "timeMonth": 968,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2025-01-24": 9,
       "2024-12-11": 25
     }
   }

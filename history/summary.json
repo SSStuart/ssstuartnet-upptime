@@ -4,11 +4,11 @@
     "url": "https://ssstuart.net",
     "icon": "https://icons.duckduckgo.com/ip3/ssstuart.net.ico",
     "slug": "ssstuart-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 1193,
     "timeDay": 1025,
@@ -16,6 +16,7 @@
     "timeMonth": 991,
     "timeYear": 1193,
     "dailyMinutesDown": {
+      "2025-02-07": 1,
       "2025-01-29": 19,
       "2024-12-12": 40,
       "2024-12-11": 35
@@ -26,10 +27,10 @@
     "url": "https://ssstuart.net/CQLJ",
     "icon": "https://ssstuart.net/CQLJ/favicon.ico",
     "slug": "cqlj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 459,
@@ -38,6 +39,7 @@
     "timeMonth": 469,
     "timeYear": 459,
     "dailyMinutesDown": {
+      "2025-02-07": 1,
       "2025-01-29": 19,
       "2024-12-16": 20,
       "2024-12-11": 25
@@ -48,7 +50,7 @@
     "url": "https://gta5billboards.ssstuart.net/",
     "icon": "https://gta5billboards.ssstuart.net/favicon.ico",
     "slug": "gta-5-bb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -60,6 +62,7 @@
     "timeMonth": 923,
     "timeYear": 951,
     "dailyMinutesDown": {
+      "2025-02-07": 0,
       "2025-01-29": 18,
       "2024-12-11": 25
     }
